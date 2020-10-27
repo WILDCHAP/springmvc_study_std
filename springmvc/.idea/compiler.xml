@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springmvc-01" />
+        <module name="spring-04-review" />
         <module name="springmvc-02" />
         <module name="spring-03-annotation" />
       </profile>
