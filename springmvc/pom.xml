@@ -13,6 +13,7 @@
         <module>springmvc-02</module>
         <module>spring-03-annotation</module>
         <module>spring-04-review</module>
+        <module>spring-05-noview</module>
     </modules>
 
 
